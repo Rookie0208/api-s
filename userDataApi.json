@@ -1,0 +1,54 @@
+[
+{
+    "userId": 1,
+    "id": "1",
+    "name": "Amit Rawat",
+    "email": "amitsr2612@gmail.com",
+    "mobile": "1234567899",
+    "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "I am 2 times distric champion."
+},
+{
+    "userId": 2,
+    "id": "2",
+    "name": "Abhishek Kumar",
+    "email": "abhishekkumar123@gmail.com",
+    "mobile": "1234567899",
+    "image": "https://images.pexels.com/photos/547593/pexels-photo-547593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "I am the team captain of badminton in my college"
+},
+{
+    "userId": 3,
+    "id": "3",
+    "name": "Prateek Mishra",
+    "email": "pk23@gmail.com",
+    "mobile": "1234567899",
+    "image": "https://images.pexels.com/photos/547593/pexels-photo-547593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "I am the team captain of badminton in my college"
+},
+{
+    "userId": 4,
+    "id": "4",
+    "name": "sindhu singh",
+    "email": "skSindhu@gmail.com",
+    "mobile": "1234567899",
+    "image": "https://images.pexels.com/photos/547593/pexels-photo-547593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "I am the team captain of badminton in my college"
+{
+    "userId": 5,
+    "id": "5",
+    "name": "Manish Chandra",
+    "email": "mc2k2@gmail.com",
+    "mobile": "1234567899",
+    "image": "https://images.pexels.com/photos/547593/pexels-photo-547593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "I am the team captain of badminton in my college"
+},
+{
+    "userId": 6,
+    "id": "6",
+    "name": "Jyoti Rai",
+    "email": "jyotirai@gmail.com",
+    "mobile": "1234567899",
+    "image": "https://images.pexels.com/photos/547593/pexels-photo-547593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "I am the team captain of badminton in my college"
+}]
